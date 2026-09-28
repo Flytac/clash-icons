@@ -1,0 +1,29 @@
+name: Update icons
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate SVGs and catalogues
+        run: python scripts/generate_icons.py --owner "${{ github.repository_owner }}" --repo "${{ github.event.repository.name }}"
+      - name: Validate SVGs
+        run: python scripts/validate_icons.py
+      - name: Commit updated icons
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add icons icons.md examples/clash-icons.yaml SOURCES.md missing-icons.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update SVG icons"
+            git push
+          fi

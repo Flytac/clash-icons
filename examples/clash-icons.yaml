@@ -1,0 +1,308 @@
+# 复制所需条目到自己的 Clash/Mihomo 配置；此文件不是完整配置
+# 如用户名仍为 USERNAME，请先替换 URL
+
+apache:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/apache.svg
+
+app-store:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/app-store.svg
+
+apple:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/apple.svg
+
+battle-net:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/battle-net.svg
+
+centos:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/centos.svg
+
+chatgpt:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/chatgpt.svg
+
+claude:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/claude.svg
+
+cloudflare:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/cloudflare.svg
+
+copilot:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/copilot.svg
+
+debian:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/debian.svg
+
+deepseek:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/deepseek.svg
+
+discord:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/discord.svg
+
+docker:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/docker.svg
+
+epic-games:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/epic-games.svg
+
+facebook:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/facebook.svg
+
+gemini:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/gemini.svg
+
+github:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/github.svg
+
+gitlab:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/gitlab.svg
+
+gmail:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/gmail.svg
+
+google:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/google.svg
+
+google-drive:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/google-drive.svg
+
+google-play:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/google-play.svg
+
+grok:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/grok.svg
+
+hbo:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/hbo.svg
+
+icloud:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/icloud.svg
+
+instagram:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/instagram.svg
+
+javascript:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/javascript.svg
+
+league-of-legends:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/league-of-legends.svg
+
+linux:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/linux.svg
+
+microsoft:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/microsoft.svg
+
+mongodb:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/mongodb.svg
+
+mysql:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/mysql.svg
+
+netflix:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/netflix.svg
+
+nginx:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/nginx.svg
+
+nintendo:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/nintendo.svg
+
+nintendo-switch:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/nintendo-switch.svg
+
+nodejs:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/nodejs.svg
+
+onedrive:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/onedrive.svg
+
+openai:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/openai.svg
+
+perplexity:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/perplexity.svg
+
+playstation:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/playstation.svg
+
+postgresql:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/postgresql.svg
+
+python:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/python.svg
+
+reddit:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/reddit.svg
+
+redhat:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/redhat.svg
+
+redis:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/redis.svg
+
+riot-games:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/riot-games.svg
+
+signal:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/signal.svg
+
+spotify:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/spotify.svg
+
+steam:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/steam.svg
+
+telegram:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/telegram.svg
+
+tiktok:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/tiktok.svg
+
+twitch:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/twitch.svg
+
+twitter:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/twitter.svg
+
+ubisoft:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/ubisoft.svg
+
+ubuntu:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/ubuntu.svg
+
+valorant:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/valorant.svg
+
+visual-studio-code:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/visual-studio-code.svg
+
+whatsapp:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/whatsapp.svg
+
+windows:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/windows.svg
+
+x:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/x.svg
+
+xbox:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/xbox.svg
+
+youtube:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/brands/youtube.svg
+
+australia:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/regions/australia.svg
+
+canada:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/regions/canada.svg
+
+france:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/regions/france.svg
+
+germany:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/regions/germany.svg
+
+hongkong:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/regions/hongkong.svg
+
+japan:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/regions/japan.svg
+
+korea:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/regions/korea.svg
+
+singapore:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/regions/singapore.svg
+
+taiwan:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/regions/taiwan.svg
+
+uk:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/regions/uk.svg
+
+usa:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/regions/usa.svg
+
+adblock:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/adblock.svg
+
+ai:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/ai.svg
+
+auto:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/auto.svg
+
+bank:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/bank.svg
+
+cloud:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/cloud.svg
+
+development:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/development.svg
+
+direct:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/direct.svg
+
+dns:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/dns.svg
+
+download:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/download.svg
+
+education:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/education.svg
+
+email:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/email.svg
+
+fallback:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/fallback.svg
+
+game:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/game.svg
+
+global:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/global.svg
+
+load-balance:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/load-balance.svg
+
+music:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/music.svg
+
+network:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/network.svg
+
+payment:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/payment.svg
+
+private:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/private.svg
+
+proxy:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/proxy.svg
+
+search:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/search.svg
+
+server:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/server.svg
+
+shopping:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/shopping.svg
+
+social:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/social.svg
+
+speedtest:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/speedtest.svg
+
+streaming:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/streaming.svg
+
+upload:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/upload.svg
+
+video:
+  icon: https://fastly.jsdelivr.net/gh/Flytac/clash-icons@main/icons/general/video.svg
