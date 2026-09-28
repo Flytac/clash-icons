@@ -54,8 +54,8 @@
   {"name":"apple","source":"simple-icons","slug":"apple","category":"brands"},
   {"name":"icloud","source":"simple-icons","slug":"icloud","category":"brands"},
   {"name":"app-store","source":"simple-icons","slug":"appstore","category":"brands"},
-  {"name":"openai","source":"iconify","set":"logos","slug":"openai-icon","category":"brands"},
-  {"name":"chatgpt","source":"iconify","set":"logos","slug":"openai-icon","category":"brands","note":"使用 OpenAI 公司标志作为 ChatGPT 代用图标"},
+  {"name":"openai","source":"iconify","set":"logos","slug":"openai-icon","color":"000000","category":"brands"},
+  {"name":"chatgpt","source":"iconify","set":"logos","slug":"openai-icon","color":"000000","category":"brands","note":"使用 OpenAI 公司标志作为 ChatGPT 代用图标"},
   {"name":"claude","source":"simple-icons","slug":"claude","category":"brands"},
   {"name":"gemini","source":"simple-icons","slug":"googlegemini","category":"brands"},
   {"name":"telegram","source":"simple-icons","slug":"telegram","category":"brands"},
@@ -63,7 +63,7 @@
   {"name":"whatsapp","source":"simple-icons","slug":"whatsapp","category":"brands"},
   {"name":"signal","source":"simple-icons","slug":"signal","category":"brands"},
   {"name":"twitter","source":"iconify","set":"logos","slug":"twitter","category":"brands"},
-  {"name":"x","source":"iconify","set":"logos","slug":"x","category":"brands"},
+  {"name":"x","source":"iconify","set":"logos","slug":"x","color":"000000","category":"brands"},
   {"name":"facebook","source":"simple-icons","slug":"facebook","category":"brands"},
   {"name":"instagram","source":"simple-icons","slug":"instagram","category":"brands"},
   {"name":"tiktok","source":"simple-icons","slug":"tiktok","category":"brands"},
@@ -104,8 +104,8 @@
   {"name":"javascript","source":"simple-icons","slug":"javascript","category":"brands"},
   {"name":"nodejs","source":"simple-icons","slug":"nodedotjs","category":"brands"},
   {"name":"visual-studio-code","source":"iconify","set":"logos","slug":"visual-studio-code","category":"brands"},
-  {"name":"copilot","source":"iconify","set":"logos","slug":"github-copilot","category":"brands","note":"采用 GitHub Copilot 产品图标"},
+  {"name":"copilot","source":"iconify","set":"logos","slug":"github-copilot","color":"000000","category":"brands","note":"采用 GitHub Copilot 产品图标"},
   {"name":"deepseek","source":"simple-icons","slug":"deepseek","category":"brands"},
   {"name":"perplexity","source":"simple-icons","slug":"perplexity","category":"brands"},
-  {"name":"grok","source":"iconify","set":"logos","slug":"grok-icon","category":"brands"}
+  {"name":"grok","source":"iconify","set":"logos","slug":"grok-icon","color":"000000","category":"brands"}
 ]

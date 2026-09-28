@@ -11,10 +11,10 @@ Simple Icons 固定版本：`16.32.0`。通用图标由 Tabler 提供，旗帜�
 | apple | Simple Icons | [`apple`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/apple.svg) | #000000 | CC0 collection; individual brand rights may differ |
 | battle-net | Simple Icons | [`battledotnet`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/battledotnet.svg) | #4381C3 | CC0 collection; individual brand rights may differ |
 | centos | Simple Icons | [`centos`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/centos.svg) | #262577 | CC0 collection; individual brand rights may differ |
-| chatgpt | Iconify / SVG Logos | [`openai-icon`](https://api.iconify.design/logos/openai-icon.svg) | 保留原 SVG 多色 | CC0-1.0 collection; brand rights may differ; 使用 OpenAI 公司标志作为 ChatGPT 代用图标 |
+| chatgpt | Iconify / SVG Logos | [`openai-icon`](https://api.iconify.design/logos/openai-icon.svg) | #000000 | CC0-1.0 collection; brand rights may differ; 使用 OpenAI 公司标志作为 ChatGPT 代用图标 |
 | claude | Simple Icons | [`claude`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/claude.svg) | #D97757 | CC0 collection; individual brand rights may differ |
 | cloudflare | Simple Icons | [`cloudflare`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/cloudflare.svg) | #F38020 | CC0 collection; individual brand rights may differ |
-| copilot | Iconify / SVG Logos | [`github-copilot`](https://api.iconify.design/logos/github-copilot.svg) | 保留原 SVG 多色 | CC0-1.0 collection; brand rights may differ; 采用 GitHub Copilot 产品图标 |
+| copilot | Iconify / SVG Logos | [`github-copilot`](https://api.iconify.design/logos/github-copilot.svg) | #000000 | CC0-1.0 collection; brand rights may differ; 采用 GitHub Copilot 产品图标 |
 | debian | Simple Icons | [`debian`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/debian.svg) | #A81D33 | CC0 collection; individual brand rights may differ; 单图标: CC-BY-SA-3.0 |
 | deepseek | Simple Icons | [`deepseek`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/deepseek.svg) | #5786FE | CC0 collection; individual brand rights may differ |
 | discord | Simple Icons | [`discord`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/discord.svg) | #5865F2 | CC0 collection; individual brand rights may differ |
@@ -28,7 +28,7 @@ Simple Icons 固定版本：`16.32.0`。通用图标由 Tabler 提供，旗帜�
 | google | Simple Icons | [`google`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/google.svg) | #4285F4 | CC0 collection; individual brand rights may differ |
 | google-drive | Simple Icons | [`googledrive`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/googledrive.svg) | #4285F4 | CC0 collection; individual brand rights may differ |
 | google-play | Simple Icons | [`googleplay`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/googleplay.svg) | #414141 | CC0 collection; individual brand rights may differ |
-| grok | Iconify / SVG Logos | [`grok-icon`](https://api.iconify.design/logos/grok-icon.svg) | 保留原 SVG 多色 | CC0-1.0 collection; brand rights may differ |
+| grok | Iconify / SVG Logos | [`grok-icon`](https://api.iconify.design/logos/grok-icon.svg) | #000000 | CC0-1.0 collection; brand rights may differ |
 | hbo | Simple Icons | [`hbo`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/hbo.svg) | #000000 | CC0 collection; individual brand rights may differ |
 | icloud | Simple Icons | [`icloud`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/icloud.svg) | #3693F3 | CC0 collection; individual brand rights may differ |
 | instagram | Simple Icons | [`instagram`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/instagram.svg) | #FF0069 | CC0 collection; individual brand rights may differ |
@@ -44,7 +44,7 @@ Simple Icons 固定版本：`16.32.0`。通用图标由 Tabler 提供，旗帜�
 | nintendo-switch | Iconify / CoreUI Brands | [`nintendo-switch`](https://api.iconify.design/cib/nintendo-switch.svg) | #E60012 | CC0-1.0 collection; brand rights may differ |
 | nodejs | Simple Icons | [`nodedotjs`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/nodedotjs.svg) | #5FA04E | CC0 collection; individual brand rights may differ |
 | onedrive | Iconify / SVG Logos | [`microsoft-onedrive`](https://api.iconify.design/logos/microsoft-onedrive.svg) | 保留原 SVG 多色 | CC0-1.0 collection; brand rights may differ |
-| openai | Iconify / SVG Logos | [`openai-icon`](https://api.iconify.design/logos/openai-icon.svg) | 保留原 SVG 多色 | CC0-1.0 collection; brand rights may differ |
+| openai | Iconify / SVG Logos | [`openai-icon`](https://api.iconify.design/logos/openai-icon.svg) | #000000 | CC0-1.0 collection; brand rights may differ |
 | perplexity | Simple Icons | [`perplexity`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/perplexity.svg) | #1FB8CD | CC0 collection; individual brand rights may differ |
 | playstation | Simple Icons | [`playstation`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/playstation.svg) | #0070D1 | CC0 collection; individual brand rights may differ |
 | postgresql | Simple Icons | [`postgresql`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/postgresql.svg) | #4169E1 | CC0 collection; individual brand rights may differ |
@@ -66,7 +66,7 @@ Simple Icons 固定版本：`16.32.0`。通用图标由 Tabler 提供，旗帜�
 | visual-studio-code | Iconify / SVG Logos | [`visual-studio-code`](https://api.iconify.design/logos/visual-studio-code.svg) | 保留原 SVG 多色 | CC0-1.0 collection; brand rights may differ |
 | whatsapp | Simple Icons | [`whatsapp`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/whatsapp.svg) | #25D366 | CC0 collection; individual brand rights may differ |
 | windows | Iconify / SVG Logos | [`microsoft-windows-icon`](https://api.iconify.design/logos/microsoft-windows-icon.svg) | 保留原 SVG 多色 | CC0-1.0 collection; brand rights may differ |
-| x | Iconify / SVG Logos | [`x`](https://api.iconify.design/logos/x.svg) | 保留原 SVG 多色 | CC0-1.0 collection; brand rights may differ |
+| x | Iconify / SVG Logos | [`x`](https://api.iconify.design/logos/x.svg) | #000000 | CC0-1.0 collection; brand rights may differ |
 | xbox | Iconify / CoreUI Brands | [`xbox`](https://api.iconify.design/cib/xbox.svg) | #107C10 | CC0-1.0 collection; brand rights may differ |
 | youtube | Simple Icons | [`youtube`](https://cdn.jsdelivr.net/npm/simple-icons@16.32.0/icons/youtube.svg) | #FF0000 | CC0 collection; individual brand rights may differ |
 

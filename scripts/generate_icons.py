@@ -165,8 +165,8 @@ def main() -> int:
     try:
         data = json.loads(fetch(f"{SIMPLE_BASE}/data/simple-icons.json"))
     except (OSError, urllib.error.URLError, json.JSONDecodeError) as exc:
-        print(f"无法获取 Simple Icons 元数据：{exc}", file=sys.stderr)
-        return 1
+        print(f"无法获取 Simple Icons 元数据；相关品牌将逐项报告失败：{exc}", file=sys.stderr)
+        data = []
     metadata = {x.get("slug") or re.sub(r"[^a-z0-9]", "", x["title"].lower()): x for x in data}
     missing = [{**x} for x in items if x["source"] == "missing"]
     active = [x for x in items if x["source"] != "missing"]
